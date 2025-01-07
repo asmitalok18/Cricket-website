@@ -19,3 +19,6 @@ The "IPL-2022-App" project is an online web application(fully responsive) that p
 
 ## Responsive and Progressive Web App
 * This web app is fully responsive and converted into a progressive web app that can be used in mobile devices and work as a native app.
+## Deployment
+
+* https://cricket-website-five.vercel.app/
